@@ -1,0 +1,3 @@
+User ID: 123
+Name: Ali Khan
+email: Email: ali@example.com
